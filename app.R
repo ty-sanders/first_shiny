@@ -1,6 +1,6 @@
 library(shiny)
 data("mtcars")
-library(tidyverse)
+library(ggplot2)
 
 wdayvec <- c("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat")
 colors <- c("red", "blue")
